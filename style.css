@@ -45,6 +45,7 @@ nav{
     position: absolute;
     top: 349px;
     left: 730px;
+    text-align: center;
     padding-top: 15px;
 }
 .section-about_border{
@@ -52,10 +53,15 @@ nav{
     height: 160px;
     border: 1px solid black;
     margin: 0 auto;
+    padding: 17px 0 0 28px;
+    text-align: left;
 }
 .section-about_title{
-
+    font-size: 36px;
+    margin: 0;
+    margin-bottom: 9px;
 }
 .section-about_text{
-    
+    font-size: 12px;
+    margin: 0;
 }
