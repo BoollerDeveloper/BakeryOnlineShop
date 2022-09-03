@@ -66,6 +66,9 @@ nav{
     font-size: 12px;
     margin: 0;
 }
+.section-description{
+    margin-bottom: 20px;
+}
 .section-description_icon-box{
     text-align: center;
 }
@@ -88,5 +91,14 @@ nav{
     margin: 0px;
     text-align: center;
     width: 1000px;
+    margin: 0 auto;
+}
+.section-map_title{
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-align: center;
+}
+iframe{
+    display: block;
     margin: 0 auto;
 }
